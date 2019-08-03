@@ -1,2 +1,3 @@
-# projects
-My Projects
+Authors 
+Rafeed Sultaan
+Vishal Beniwal
